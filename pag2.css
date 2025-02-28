@@ -15,7 +15,7 @@ main {
 img{
     display:block;
     margin:auto;
-    padding: 15px;
+    padding: 20px;
 }
 
 #yes{
@@ -51,4 +51,8 @@ footer{
 }
 #lastpag{
  padding: 50px;
+ display: flex;
+}
+div{
+ 
 }
